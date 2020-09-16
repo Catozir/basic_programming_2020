@@ -35,4 +35,993 @@ Password for 'https://Catozir@github.com':
 Всего 8 (изменения 0), повторно использовано 0 (изменения 0)
 To https://github.com/Catozir/basic_programming_2020
  * [new branch]      master -> master
+Пункт 2
+Задание a
+catoz@TUF505DT:/dev$ ls -l
+итого 0
+crw-r--r--  1 root  root     10, 235 сен 16  2020 autofs
+drwxr-xr-x  2 root  root         320 сен 16  2020 block
+crw-------  1 root  root     10, 234 сен 16  2020 btrfs-control
+drwxr-xr-x  3 root  root          60 сен 16  2020 bus
+drwxr-xr-x  2 root  root        4160 сен 16  2020 char
+crw--w----  1 root  tty       5,   1 сен 16  2020 console
+lrwxrwxrwx  1 root  root          11 сен 16  2020 core -> /proc/kcore
+drwxr-xr-x  2 root  root          60 сен 16  2020 cpu
+crw-------  1 root  root     10,  59 сен 16  2020 cpu_dma_latency
+crw-------  1 root  root     10, 203 сен 16  2020 cuse
+drwxr-xr-x  7 root  root         140 сен 16  2020 disk
+drwxr-xr-x  3 root  root         140 сен 16  2020 dri
+crw-------  1 root  root    238,   0 сен 16  2020 drm_dp_aux0
+crw-------  1 root  root     10,  62 сен 16  2020 ecryptfs
+crw-rw----  1 root  video    29,   0 сен 16  2020 fb0
+lrwxrwxrwx  1 root  root          13 сен 16  2020 fd -> /proc/self/fd
+crw-rw-rw-  1 root  root      1,   7 сен 16  2020 full
+crw-rw-rw-  1 root  root     10, 229 сен 16  2020 fuse
+crw-------  1 root  root    254,   0 сен 16  2020 gpiochip0
+crw-------  1 root  root    240,   0 сен 16  2020 hidraw0
+crw-------  1 root  root    240,   1 сен 16  2020 hidraw1
+crw-------  1 root  root     10, 228 сен 16  2020 hpet
+drwxr-xr-x  2 root  root           0 сен 16  2020 hugepages
+crw-------  1 root  root     10, 183 сен 16  2020 hwrng
+crw-------  1 root  root     89,   0 сен 16  2020 i2c-0
+crw-------  1 root  root     89,   1 сен 16  2020 i2c-1
+crw-------  1 root  root     89,   2 сен 16  2020 i2c-2
+crw-------  1 root  root     89,   3 сен 16  2020 i2c-3
+crw-------  1 root  root     89,   4 сен 16  2020 i2c-4
+crw-------  1 root  root     89,   5 сен 16  2020 i2c-5
+crw-------  1 root  root     89,   6 сен 16  2020 i2c-6
+lrwxrwxrwx  1 root  root          12 сен 16  2020 initctl -> /run/initctl
+drwxr-xr-x  4 root  root         460 сен 16  2020 input
+crw-rw----  1 root  render  511,   0 сен 16  2020 kfd
+crw-r--r--  1 root  root      1,  11 сен 16  2020 kmsg
+drwxr-xr-x  2 root  root          60 сен 16  2020 lightnvm
+lrwxrwxrwx  1 root  root          28 сен 16  2020 log -> /run/systemd/journal/dev-log
+brw-rw----  1 root  disk      7,   0 сен 16  2020 loop0
+brw-rw----  1 root  disk      7,   1 сен 16  2020 loop1
+brw-rw----  1 root  disk      7,   2 сен 16  2020 loop2
+brw-rw----  1 root  disk      7,   3 сен 16  2020 loop3
+brw-rw----  1 root  disk      7,   4 сен 16  2020 loop4
+brw-rw----  1 root  disk      7,   5 сен 16 20:19 loop5
+brw-rw----  1 root  disk      7,   6 сен 16 20:19 loop6
+brw-rw----  1 root  disk      7,   7 сен 16 20:20 loop7
+crw-rw----  1 root  disk     10, 237 сен 16  2020 loop-control
+drwxr-xr-x  2 root  root          60 сен 16  2020 mapper
+crw-------  1 root  root     10, 227 сен 16  2020 mcelog
+crw-rw----  1 root  video   236,   0 сен 16  2020 media0
+crw-r-----  1 root  kmem      1,   1 сен 16  2020 mem
+drwxrwxrwt  2 root  root          40 сен 16  2020 mqueue
+drwxr-xr-x  2 root  root          60 сен 16  2020 net
+crw-rw-rw-  1 root  root      1,   3 сен 16  2020 null
+crw-rw-rw-  1 root  root    195,   0 сен 16  2020 nvidia0
+crw-rw-rw-  1 root  root    195, 255 сен 16  2020 nvidiactl
+crw-rw-rw-  1 root  root    195, 254 сен 16  2020 nvidia-modeset
+crw-rw-rw-  1 root  root    510,   0 сен 16  2020 nvidia-uvm
+crw-rw-rw-  1 root  root    510,   1 сен 16  2020 nvidia-uvm-tools
+crw-------  1 root  root    239,   0 сен 16  2020 nvme0
+brw-rw----  1 root  disk    259,   0 сен 16  2020 nvme0n1
+brw-rw----  1 root  disk    259,   1 сен 16  2020 nvme0n1p1
+brw-rw----  1 root  disk    259,   2 сен 16  2020 nvme0n1p2
+brw-rw----  1 root  disk    259,   3 сен 16  2020 nvme0n1p3
+brw-rw----  1 root  disk    259,   4 сен 16  2020 nvme0n1p4
+brw-rw----  1 root  disk    259,   5 сен 16  2020 nvme0n1p5
+crw-------  1 root  root     10, 144 сен 16  2020 nvram
+crw-r-----  1 root  kmem      1,   4 сен 16  2020 port
+crw-------  1 root  root    108,   0 сен 16  2020 ppp
+crw-------  1 root  root     10,   1 сен 16  2020 psaux
+crw-rw-rw-  1 root  tty       5,   2 сен 16 21:43 ptmx
+drwxr-xr-x  2 root  root           0 сен 16  2020 pts
+crw-rw-rw-  1 root  root      1,   8 сен 16  2020 random
+crw-rw-r--+ 1 root  root     10, 242 сен 16  2020 rfkill
+lrwxrwxrwx  1 root  root           4 сен 16  2020 rtc -> rtc0
+crw-------  1 root  root    249,   0 сен 16  2020 rtc0
+drwxrwxrwt  2 root  root          40 сен 16 21:43 shm
+crw-------  1 root  root     10, 231 сен 16  2020 snapshot
+drwxr-xr-x  3 root  root         240 сен 16  2020 snd
+lrwxrwxrwx  1 root  root          15 сен 16  2020 stderr -> /proc/self/fd/2
+lrwxrwxrwx  1 root  root          15 сен 16  2020 stdin -> /proc/self/fd/0
+lrwxrwxrwx  1 root  root          15 сен 16  2020 stdout -> /proc/self/fd/1
+crw-rw-rw-  1 root  tty       5,   0 сен 16 21:27 tty
+crw--w----  1 root  tty       4,   0 сен 16  2020 tty0
+crw--w----  1 gdm   tty       4,   1 сен 16  2020 tty1
+crw--w----  1 root  tty       4,  10 сен 16  2020 tty10
+crw--w----  1 root  tty       4,  11 сен 16  2020 tty11
+crw--w----  1 root  tty       4,  12 сен 16  2020 tty12
+crw--w----  1 root  tty       4,  13 сен 16  2020 tty13
+crw--w----  1 root  tty       4,  14 сен 16  2020 tty14
+crw--w----  1 root  tty       4,  15 сен 16  2020 tty15
+crw--w----  1 root  tty       4,  16 сен 16  2020 tty16
+crw--w----  1 root  tty       4,  17 сен 16  2020 tty17
+crw--w----  1 root  tty       4,  18 сен 16  2020 tty18
+crw--w----  1 root  tty       4,  19 сен 16  2020 tty19
+crw--w----  1 catoz tty       4,   2 сен 16  2020 tty2
+crw--w----  1 root  tty       4,  20 сен 16  2020 tty20
+crw--w----  1 root  tty       4,  21 сен 16  2020 tty21
+crw--w----  1 root  tty       4,  22 сен 16  2020 tty22
+crw--w----  1 root  tty       4,  23 сен 16  2020 tty23
+crw--w----  1 root  tty       4,  24 сен 16  2020 tty24
+crw--w----  1 root  tty       4,  25 сен 16  2020 tty25
+crw--w----  1 root  tty       4,  26 сен 16  2020 tty26
+crw--w----  1 root  tty       4,  27 сен 16  2020 tty27
+crw--w----  1 root  tty       4,  28 сен 16  2020 tty28
+crw--w----  1 root  tty       4,  29 сен 16  2020 tty29
+crw--w----  1 root  tty       4,   3 сен 16  2020 tty3
+crw--w----  1 root  tty       4,  30 сен 16  2020 tty30
+crw--w----  1 root  tty       4,  31 сен 16  2020 tty31
+crw--w----  1 root  tty       4,  32 сен 16  2020 tty32
+crw--w----  1 root  tty       4,  33 сен 16  2020 tty33
+crw--w----  1 root  tty       4,  34 сен 16  2020 tty34
+crw--w----  1 root  tty       4,  35 сен 16  2020 tty35
+crw--w----  1 root  tty       4,  36 сен 16  2020 tty36
+crw--w----  1 root  tty       4,  37 сен 16  2020 tty37
+crw--w----  1 root  tty       4,  38 сен 16  2020 tty38
+crw--w----  1 root  tty       4,  39 сен 16  2020 tty39
+crw--w----  1 root  tty       4,   4 сен 16  2020 tty4
+crw--w----  1 root  tty       4,  40 сен 16  2020 tty40
+crw--w----  1 root  tty       4,  41 сен 16  2020 tty41
+crw--w----  1 root  tty       4,  42 сен 16  2020 tty42
+crw--w----  1 root  tty       4,  43 сен 16  2020 tty43
+crw--w----  1 root  tty       4,  44 сен 16  2020 tty44
+crw--w----  1 root  tty       4,  45 сен 16  2020 tty45
+crw--w----  1 root  tty       4,  46 сен 16  2020 tty46
+crw--w----  1 root  tty       4,  47 сен 16  2020 tty47
+crw--w----  1 root  tty       4,  48 сен 16  2020 tty48
+crw--w----  1 root  tty       4,  49 сен 16  2020 tty49
+crw--w----  1 root  tty       4,   5 сен 16  2020 tty5
+crw--w----  1 root  tty       4,  50 сен 16  2020 tty50
+crw--w----  1 root  tty       4,  51 сен 16  2020 tty51
+crw--w----  1 root  tty       4,  52 сен 16  2020 tty52
+crw--w----  1 root  tty       4,  53 сен 16  2020 tty53
+crw--w----  1 root  tty       4,  54 сен 16  2020 tty54
+crw--w----  1 root  tty       4,  55 сен 16  2020 tty55
+crw--w----  1 root  tty       4,  56 сен 16  2020 tty56
+crw--w----  1 root  tty       4,  57 сен 16  2020 tty57
+crw--w----  1 root  tty       4,  58 сен 16  2020 tty58
+crw--w----  1 root  tty       4,  59 сен 16  2020 tty59
+crw--w----  1 root  tty       4,   6 сен 16  2020 tty6
+crw--w----  1 root  tty       4,  60 сен 16  2020 tty60
+crw--w----  1 root  tty       4,  61 сен 16  2020 tty61
+crw--w----  1 root  tty       4,  62 сен 16  2020 tty62
+crw--w----  1 root  tty       4,  63 сен 16  2020 tty63
+crw--w----  1 root  tty       4,   7 сен 16  2020 tty7
+crw--w----  1 root  tty       4,   8 сен 16  2020 tty8
+crw--w----  1 root  tty       4,   9 сен 16  2020 tty9
+crw-------  1 root  root      5,   3 сен 16  2020 ttyprintk
+crw-rw----  1 root  dialout   4,  64 сен 16  2020 ttyS0
+crw-rw----  1 root  dialout   4,  65 сен 16  2020 ttyS1
+crw-rw----  1 root  dialout   4,  74 сен 16  2020 ttyS10
+crw-rw----  1 root  dialout   4,  75 сен 16  2020 ttyS11
+crw-rw----  1 root  dialout   4,  76 сен 16  2020 ttyS12
+crw-rw----  1 root  dialout   4,  77 сен 16  2020 ttyS13
+crw-rw----  1 root  dialout   4,  78 сен 16  2020 ttyS14
+crw-rw----  1 root  dialout   4,  79 сен 16  2020 ttyS15
+crw-rw----  1 root  dialout   4,  80 сен 16  2020 ttyS16
+crw-rw----  1 root  dialout   4,  81 сен 16  2020 ttyS17
+crw-rw----  1 root  dialout   4,  82 сен 16  2020 ttyS18
+crw-rw----  1 root  dialout   4,  83 сен 16  2020 ttyS19
+crw-rw----  1 root  dialout   4,  66 сен 16  2020 ttyS2
+crw-rw----  1 root  dialout   4,  84 сен 16  2020 ttyS20
+crw-rw----  1 root  dialout   4,  85 сен 16  2020 ttyS21
+crw-rw----  1 root  dialout   4,  86 сен 16  2020 ttyS22
+crw-rw----  1 root  dialout   4,  87 сен 16  2020 ttyS23
+crw-rw----  1 root  dialout   4,  88 сен 16  2020 ttyS24
+crw-rw----  1 root  dialout   4,  89 сен 16  2020 ttyS25
+crw-rw----  1 root  dialout   4,  90 сен 16  2020 ttyS26
+crw-rw----  1 root  dialout   4,  91 сен 16  2020 ttyS27
+crw-rw----  1 root  dialout   4,  92 сен 16  2020 ttyS28
+crw-rw----  1 root  dialout   4,  93 сен 16  2020 ttyS29
+crw-rw----  1 root  dialout   4,  67 сен 16  2020 ttyS3
+crw-rw----  1 root  dialout   4,  94 сен 16  2020 ttyS30
+crw-rw----  1 root  dialout   4,  95 сен 16  2020 ttyS31
+crw-rw----  1 root  dialout   4,  68 сен 16  2020 ttyS4
+crw-rw----  1 root  dialout   4,  69 сен 16  2020 ttyS5
+crw-rw----  1 root  dialout   4,  70 сен 16  2020 ttyS6
+crw-rw----  1 root  dialout   4,  71 сен 16  2020 ttyS7
+crw-rw----  1 root  dialout   4,  72 сен 16  2020 ttyS8
+crw-rw----  1 root  dialout   4,  73 сен 16  2020 ttyS9
+crw-rw----  1 root  kvm      10,  60 сен 16  2020 udmabuf
+crw-------  1 root  root     10, 239 сен 16  2020 uhid
+crw-------  1 root  root     10, 223 сен 16  2020 uinput
+crw-rw-rw-  1 root  root      1,   9 сен 16  2020 urandom
+crw-------  1 root  root     10, 240 сен 16  2020 userio
+drwxr-xr-x  4 root  root          80 сен 16  2020 v4l
+crw-rw----  1 root  tty       7,   0 сен 16  2020 vcs
+crw-rw----  1 root  tty       7,   1 сен 16  2020 vcs1
+crw-rw----  1 root  tty       7,   2 сен 16  2020 vcs2
+crw-rw----  1 root  tty       7,   3 сен 16  2020 vcs3
+crw-rw----  1 root  tty       7,   4 сен 16  2020 vcs4
+crw-rw----  1 root  tty       7,   5 сен 16  2020 vcs5
+crw-rw----  1 root  tty       7,   6 сен 16  2020 vcs6
+crw-rw----  1 root  tty       7, 128 сен 16  2020 vcsa
+crw-rw----  1 root  tty       7, 129 сен 16  2020 vcsa1
+crw-rw----  1 root  tty       7, 130 сен 16  2020 vcsa2
+crw-rw----  1 root  tty       7, 131 сен 16  2020 vcsa3
+crw-rw----  1 root  tty       7, 132 сен 16  2020 vcsa4
+crw-rw----  1 root  tty       7, 133 сен 16  2020 vcsa5
+crw-rw----  1 root  tty       7, 134 сен 16  2020 vcsa6
+crw-rw----  1 root  tty       7,  64 сен 16  2020 vcsu
+crw-rw----  1 root  tty       7,  65 сен 16  2020 vcsu1
+crw-rw----  1 root  tty       7,  66 сен 16  2020 vcsu2
+crw-rw----  1 root  tty       7,  67 сен 16  2020 vcsu3
+crw-rw----  1 root  tty       7,  68 сен 16  2020 vcsu4
+crw-rw----  1 root  tty       7,  69 сен 16  2020 vcsu5
+crw-rw----  1 root  tty       7,  70 сен 16  2020 vcsu6
+drwxr-xr-x  2 root  root          60 сен 16  2020 vfio
+crw-------  1 root  root     10,  63 сен 16  2020 vga_arbiter
+crw-------  1 root  root     10, 137 сен 16  2020 vhci
+crw-------  1 root  root     10, 238 сен 16  2020 vhost-net
+crw-------  1 root  root     10, 241 сен 16  2020 vhost-vsock
+crw-rw----+ 1 root  video    81,   0 сен 16  2020 video0
+crw-rw----+ 1 root  video    81,   1 сен 16  2020 video1
+crw-rw-rw-  1 root  root      1,   5 сен 16  2020 zero
+crw-------  1 root  root     10, 249 сен 16  2020 zfs
+Задание b
+catoz@TUF505DT:/dev$ file *
+autofs:           character special (10/235)
+block:            directory
+btrfs-control:    character special (10/234)
+bus:              directory
+char:             directory
+console:          character special (5/1)
+core:             symbolic link to /proc/kcore
+cpu:              directory
+cpu_dma_latency:  character special (10/59)
+cuse:             character special (10/203)
+disk:             directory
+dri:              directory
+drm_dp_aux0:      character special (238/0)
+ecryptfs:         character special (10/62)
+fb0:              character special (29/0)
+fd:               symbolic link to /proc/self/fd
+full:             character special (1/7)
+fuse:             character special (10/229)
+gpiochip0:        character special (254/0)
+hidraw0:          character special (240/0)
+hidraw1:          character special (240/1)
+hpet:             character special (10/228)
+hugepages:        directory
+hwrng:            character special (10/183)
+i2c-0:            character special (89/0)
+i2c-1:            character special (89/1)
+i2c-2:            character special (89/2)
+i2c-3:            character special (89/3)
+i2c-4:            character special (89/4)
+i2c-5:            character special (89/5)
+i2c-6:            character special (89/6)
+initctl:          symbolic link to /run/initctl
+input:            directory
+kfd:              character special (511/0)
+kmsg:             character special (1/11)
+lightnvm:         directory
+log:              symbolic link to /run/systemd/journal/dev-log
+loop0:            block special (7/0)
+loop1:            block special (7/1)
+loop2:            block special (7/2)
+loop3:            block special (7/3)
+loop4:            block special (7/4)
+loop5:            block special (7/5)
+loop6:            block special (7/6)
+loop7:            block special (7/7)
+loop-control:     character special (10/237)
+mapper:           directory
+mcelog:           character special (10/227)
+media0:           character special (236/0)
+mem:              character special (1/1)
+mqueue:           sticky, directory
+net:              directory
+null:             character special (1/3)
+nvidia0:          character special (195/0)
+nvidiactl:        character special (195/255)
+nvidia-modeset:   character special (195/254)
+nvidia-uvm:       character special (510/0)
+nvidia-uvm-tools: character special (510/1)
+nvme0:            character special (239/0)
+nvme0n1:          block special (259/0)
+nvme0n1p1:        block special (259/1)
+nvme0n1p2:        block special (259/2)
+nvme0n1p3:        block special (259/3)
+nvme0n1p4:        block special (259/4)
+nvme0n1p5:        block special (259/5)
+nvram:            character special (10/144)
+port:             character special (1/4)
+ppp:              character special (108/0)
+psaux:            character special (10/1)
+ptmx:             character special (5/2)
+pts:              directory
+random:           character special (1/8)
+rfkill:           character special (10/242)
+rtc:              symbolic link to rtc0
+rtc0:             character special (249/0)
+shm:              sticky, directory
+snapshot:         character special (10/231)
+snd:              directory
+stderr:           symbolic link to /proc/self/fd/2
+stdin:            symbolic link to /proc/self/fd/0
+stdout:           symbolic link to /proc/self/fd/1
+tty:              character special (5/0)
+tty0:             character special (4/0)
+tty1:             character special (4/1)
+tty10:            character special (4/10)
+tty11:            character special (4/11)
+tty12:            character special (4/12)
+tty13:            character special (4/13)
+tty14:            character special (4/14)
+tty15:            character special (4/15)
+tty16:            character special (4/16)
+tty17:            character special (4/17)
+tty18:            character special (4/18)
+tty19:            character special (4/19)
+tty2:             character special (4/2)
+tty20:            character special (4/20)
+tty21:            character special (4/21)
+tty22:            character special (4/22)
+tty23:            character special (4/23)
+tty24:            character special (4/24)
+tty25:            character special (4/25)
+tty26:            character special (4/26)
+tty27:            character special (4/27)
+tty28:            character special (4/28)
+tty29:            character special (4/29)
+tty3:             character special (4/3)
+tty30:            character special (4/30)
+tty31:            character special (4/31)
+tty32:            character special (4/32)
+tty33:            character special (4/33)
+tty34:            character special (4/34)
+tty35:            character special (4/35)
+tty36:            character special (4/36)
+tty37:            character special (4/37)
+tty38:            character special (4/38)
+tty39:            character special (4/39)
+tty4:             character special (4/4)
+tty40:            character special (4/40)
+tty41:            character special (4/41)
+tty42:            character special (4/42)
+tty43:            character special (4/43)
+tty44:            character special (4/44)
+tty45:            character special (4/45)
+tty46:            character special (4/46)
+tty47:            character special (4/47)
+tty48:            character special (4/48)
+tty49:            character special (4/49)
+tty5:             character special (4/5)
+tty50:            character special (4/50)
+tty51:            character special (4/51)
+tty52:            character special (4/52)
+tty53:            character special (4/53)
+tty54:            character special (4/54)
+tty55:            character special (4/55)
+tty56:            character special (4/56)
+tty57:            character special (4/57)
+tty58:            character special (4/58)
+tty59:            character special (4/59)
+tty6:             character special (4/6)
+tty60:            character special (4/60)
+tty61:            character special (4/61)
+tty62:            character special (4/62)
+tty63:            character special (4/63)
+tty7:             character special (4/7)
+tty8:             character special (4/8)
+tty9:             character special (4/9)
+ttyprintk:        character special (5/3)
+ttyS0:            character special (4/64)
+ttyS1:            character special (4/65)
+ttyS10:           character special (4/74)
+ttyS11:           character special (4/75)
+ttyS12:           character special (4/76)
+ttyS13:           character special (4/77)
+ttyS14:           character special (4/78)
+ttyS15:           character special (4/79)
+ttyS16:           character special (4/80)
+ttyS17:           character special (4/81)
+ttyS18:           character special (4/82)
+ttyS19:           character special (4/83)
+ttyS2:            character special (4/66)
+ttyS20:           character special (4/84)
+ttyS21:           character special (4/85)
+ttyS22:           character special (4/86)
+ttyS23:           character special (4/87)
+ttyS24:           character special (4/88)
+ttyS25:           character special (4/89)
+ttyS26:           character special (4/90)
+ttyS27:           character special (4/91)
+ttyS28:           character special (4/92)
+ttyS29:           character special (4/93)
+ttyS3:            character special (4/67)
+ttyS30:           character special (4/94)
+ttyS31:           character special (4/95)
+ttyS4:            character special (4/68)
+ttyS5:            character special (4/69)
+ttyS6:            character special (4/70)
+ttyS7:            character special (4/71)
+ttyS8:            character special (4/72)
+ttyS9:            character special (4/73)
+udmabuf:          character special (10/60)
+uhid:             character special (10/239)
+uinput:           character special (10/223)
+urandom:          character special (1/9)
+userio:           character special (10/240)
+v4l:              directory
+vcs:              character special (7/0)
+vcs1:             character special (7/1)
+vcs2:             character special (7/2)
+vcs3:             character special (7/3)
+vcs4:             character special (7/4)
+vcs5:             character special (7/5)
+vcs6:             character special (7/6)
+vcsa:             character special (7/128)
+vcsa1:            character special (7/129)
+vcsa2:            character special (7/130)
+vcsa3:            character special (7/131)
+vcsa4:            character special (7/132)
+vcsa5:            character special (7/133)
+vcsa6:            character special (7/134)
+vcsu:             character special (7/64)
+vcsu1:            character special (7/65)
+vcsu2:            character special (7/66)
+vcsu3:            character special (7/67)
+vcsu4:            character special (7/68)
+vcsu5:            character special (7/69)
+vcsu6:            character special (7/70)
+vfio:             directory
+vga_arbiter:      character special (10/63)
+vhci:             character special (10/137)
+vhost-net:        character special (10/238)
+vhost-vsock:      character special (10/241)
+video0:           character special (81/0)
+video1:           character special (81/1)
+zero:             character special (1/5)
+zfs:              character special (10/249)
+Задание c
+catoz@TUF505DT:/sbin$ file ifconfig
+ifconfig: ELF 64-bit LSB shared object, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=9c1dd40fd6f372bd6df8c6ce4be6305b09c75fc3, stripped
+catoz@TUF505DT:~$ file /etc/hosts
+/etc/hosts: ASCII text
+Задание d
+catoz@TUF505DT:~$ file /dev/sda1
+/dev/sda1: block special (8/1)
+catoz@TUF505DT:~$ file -s /dev/sda1
+/dev/sda1: no read permission
+У меня нет прав на чтение файла /dev/sda1, поэтому его прочитать. Это какой-то странный файл, который помогает системе работать.
+Задание e
+catoz@TUF505DT:~$ file /proc/cpuinfo
+/proc/cpuinfo: empty
+ Показывает, что файл пустой. Если попытаться посмотреть его содержимое, покажется вся информация о моем процессоре, после гуглинга я узнал, что информация генерируется при чтении
+Вот его содержимое catoz@TUF505DT:~$ cat /proc/cpuinfo
+processor	: 0
+vendor_id	: AuthenticAMD
+cpu family	: 23
+model		: 24
+model name	: AMD Ryzen 7 3750H with Radeon Vega Mobile Gfx
+stepping	: 1
+microcode	: 0x8108102
+cpu MHz		: 1287.417
+cache size	: 512 KB
+physical id	: 0
+siblings	: 8
+core id		: 0
+cpu cores	: 4
+apicid		: 0
+initial apicid	: 0
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 13
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nopl nonstop_tsc cpuid extd_apicid aperfmperf pni pclmulqdq monitor ssse3 fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw skinit wdt tce topoext perfctr_core perfctr_nb bpext perfctr_llc mwaitx cpb hw_pstate sme ssbd sev ibpb vmmcall fsgsbase bmi1 avx2 smep bmi2 rdseed adx smap clflushopt sha_ni xsaveopt xsavec xgetbv1 xsaves clzero irperf xsaveerptr arat npt lbrv svm_lock nrip_save tsc_scale vmcb_clean flushbyasid decodeassists pausefilter pfthreshold avic v_vmsave_vmload vgif overflow_recov succor smca
+bugs		: sysret_ss_attrs null_seg spectre_v1 spectre_v2 spec_store_bypass
+bogomips	: 4591.60
+TLB size	: 2560 4K pages
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 43 bits physical, 48 bits virtual
+power management: ts ttp tm hwpstate eff_freq_ro [13] [14]
 
+processor	: 1
+vendor_id	: AuthenticAMD
+cpu family	: 23
+model		: 24
+model name	: AMD Ryzen 7 3750H with Radeon Vega Mobile Gfx
+stepping	: 1
+microcode	: 0x8108102
+cpu MHz		: 1386.349
+cache size	: 512 KB
+physical id	: 0
+siblings	: 8
+core id		: 0
+cpu cores	: 4
+apicid		: 1
+initial apicid	: 1
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 13
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nopl nonstop_tsc cpuid extd_apicid aperfmperf pni pclmulqdq monitor ssse3 fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw skinit wdt tce topoext perfctr_core perfctr_nb bpext perfctr_llc mwaitx cpb hw_pstate sme ssbd sev ibpb vmmcall fsgsbase bmi1 avx2 smep bmi2 rdseed adx smap clflushopt sha_ni xsaveopt xsavec xgetbv1 xsaves clzero irperf xsaveerptr arat npt lbrv svm_lock nrip_save tsc_scale vmcb_clean flushbyasid decodeassists pausefilter pfthreshold avic v_vmsave_vmload vgif overflow_recov succor smca
+bugs		: sysret_ss_attrs null_seg spectre_v1 spectre_v2 spec_store_bypass
+bogomips	: 4591.60
+TLB size	: 2560 4K pages
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 43 bits physical, 48 bits virtual
+power management: ts ttp tm hwpstate eff_freq_ro [13] [14]
+
+processor	: 2
+vendor_id	: AuthenticAMD
+cpu family	: 23
+model		: 24
+model name	: AMD Ryzen 7 3750H with Radeon Vega Mobile Gfx
+stepping	: 1
+microcode	: 0x8108102
+cpu MHz		: 1403.356
+cache size	: 512 KB
+physical id	: 0
+siblings	: 8
+core id		: 1
+cpu cores	: 4
+apicid		: 2
+initial apicid	: 2
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 13
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nopl nonstop_tsc cpuid extd_apicid aperfmperf pni pclmulqdq monitor ssse3 fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw skinit wdt tce topoext perfctr_core perfctr_nb bpext perfctr_llc mwaitx cpb hw_pstate sme ssbd sev ibpb vmmcall fsgsbase bmi1 avx2 smep bmi2 rdseed adx smap clflushopt sha_ni xsaveopt xsavec xgetbv1 xsaves clzero irperf xsaveerptr arat npt lbrv svm_lock nrip_save tsc_scale vmcb_clean flushbyasid decodeassists pausefilter pfthreshold avic v_vmsave_vmload vgif overflow_recov succor smca
+bugs		: sysret_ss_attrs null_seg spectre_v1 spectre_v2 spec_store_bypass
+bogomips	: 4591.60
+TLB size	: 2560 4K pages
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 43 bits physical, 48 bits virtual
+power management: ts ttp tm hwpstate eff_freq_ro [13] [14]
+
+processor	: 3
+vendor_id	: AuthenticAMD
+cpu family	: 23
+model		: 24
+model name	: AMD Ryzen 7 3750H with Radeon Vega Mobile Gfx
+stepping	: 1
+microcode	: 0x8108102
+cpu MHz		: 1443.337
+cache size	: 512 KB
+physical id	: 0
+siblings	: 8
+core id		: 1
+cpu cores	: 4
+apicid		: 3
+initial apicid	: 3
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 13
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nopl nonstop_tsc cpuid extd_apicid aperfmperf pni pclmulqdq monitor ssse3 fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw skinit wdt tce topoext perfctr_core perfctr_nb bpext perfctr_llc mwaitx cpb hw_pstate sme ssbd sev ibpb vmmcall fsgsbase bmi1 avx2 smep bmi2 rdseed adx smap clflushopt sha_ni xsaveopt xsavec xgetbv1 xsaves clzero irperf xsaveerptr arat npt lbrv svm_lock nrip_save tsc_scale vmcb_clean flushbyasid decodeassists pausefilter pfthreshold avic v_vmsave_vmload vgif overflow_recov succor smca
+bugs		: sysret_ss_attrs null_seg spectre_v1 spectre_v2 spec_store_bypass
+bogomips	: 4591.60
+TLB size	: 2560 4K pages
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 43 bits physical, 48 bits virtual
+power management: ts ttp tm hwpstate eff_freq_ro [13] [14]
+
+processor	: 4
+vendor_id	: AuthenticAMD
+cpu family	: 23
+model		: 24
+model name	: AMD Ryzen 7 3750H with Radeon Vega Mobile Gfx
+stepping	: 1
+microcode	: 0x8108102
+cpu MHz		: 1243.256
+cache size	: 512 KB
+physical id	: 0
+siblings	: 8
+core id		: 2
+cpu cores	: 4
+apicid		: 4
+initial apicid	: 4
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 13
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nopl nonstop_tsc cpuid extd_apicid aperfmperf pni pclmulqdq monitor ssse3 fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw skinit wdt tce topoext perfctr_core perfctr_nb bpext perfctr_llc mwaitx cpb hw_pstate sme ssbd sev ibpb vmmcall fsgsbase bmi1 avx2 smep bmi2 rdseed adx smap clflushopt sha_ni xsaveopt xsavec xgetbv1 xsaves clzero irperf xsaveerptr arat npt lbrv svm_lock nrip_save tsc_scale vmcb_clean flushbyasid decodeassists pausefilter pfthreshold avic v_vmsave_vmload vgif overflow_recov succor smca
+bugs		: sysret_ss_attrs null_seg spectre_v1 spectre_v2 spec_store_bypass
+bogomips	: 4591.60
+TLB size	: 2560 4K pages
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 43 bits physical, 48 bits virtual
+power management: ts ttp tm hwpstate eff_freq_ro [13] [14]
+
+processor	: 5
+vendor_id	: AuthenticAMD
+cpu family	: 23
+model		: 24
+model name	: AMD Ryzen 7 3750H with Radeon Vega Mobile Gfx
+stepping	: 1
+microcode	: 0x8108102
+cpu MHz		: 1176.927
+cache size	: 512 KB
+physical id	: 0
+siblings	: 8
+core id		: 2
+cpu cores	: 4
+apicid		: 5
+initial apicid	: 5
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 13
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nopl nonstop_tsc cpuid extd_apicid aperfmperf pni pclmulqdq monitor ssse3 fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw skinit wdt tce topoext perfctr_core perfctr_nb bpext perfctr_llc mwaitx cpb hw_pstate sme ssbd sev ibpb vmmcall fsgsbase bmi1 avx2 smep bmi2 rdseed adx smap clflushopt sha_ni xsaveopt xsavec xgetbv1 xsaves clzero irperf xsaveerptr arat npt lbrv svm_lock nrip_save tsc_scale vmcb_clean flushbyasid decodeassists pausefilter pfthreshold avic v_vmsave_vmload vgif overflow_recov succor smca
+bugs		: sysret_ss_attrs null_seg spectre_v1 spectre_v2 spec_store_bypass
+bogomips	: 4591.60
+TLB size	: 2560 4K pages
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 43 bits physical, 48 bits virtual
+power management: ts ttp tm hwpstate eff_freq_ro [13] [14]
+
+processor	: 6
+vendor_id	: AuthenticAMD
+cpu family	: 23
+model		: 24
+model name	: AMD Ryzen 7 3750H with Radeon Vega Mobile Gfx
+stepping	: 1
+microcode	: 0x8108102
+cpu MHz		: 1376.733
+cache size	: 512 KB
+physical id	: 0
+siblings	: 8
+core id		: 3
+cpu cores	: 4
+apicid		: 6
+initial apicid	: 6
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 13
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nopl nonstop_tsc cpuid extd_apicid aperfmperf pni pclmulqdq monitor ssse3 fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw skinit wdt tce topoext perfctr_core perfctr_nb bpext perfctr_llc mwaitx cpb hw_pstate sme ssbd sev ibpb vmmcall fsgsbase bmi1 avx2 smep bmi2 rdseed adx smap clflushopt sha_ni xsaveopt xsavec xgetbv1 xsaves clzero irperf xsaveerptr arat npt lbrv svm_lock nrip_save tsc_scale vmcb_clean flushbyasid decodeassists pausefilter pfthreshold avic v_vmsave_vmload vgif overflow_recov succor smca
+bugs		: sysret_ss_attrs null_seg spectre_v1 spectre_v2 spec_store_bypass
+bogomips	: 4591.60
+TLB size	: 2560 4K pages
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 43 bits physical, 48 bits virtual
+power management: ts ttp tm hwpstate eff_freq_ro [13] [14]
+
+processor	: 7
+vendor_id	: AuthenticAMD
+cpu family	: 23
+model		: 24
+model name	: AMD Ryzen 7 3750H with Radeon Vega Mobile Gfx
+stepping	: 1
+microcode	: 0x8108102
+cpu MHz		: 1613.821
+cache size	: 512 KB
+physical id	: 0
+siblings	: 8
+core id		: 3
+cpu cores	: 4
+apicid		: 7
+initial apicid	: 7
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 13
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nopl nonstop_tsc cpuid extd_apicid aperfmperf pni pclmulqdq monitor ssse3 fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw skinit wdt tce topoext perfctr_core perfctr_nb bpext perfctr_llc mwaitx cpb hw_pstate sme ssbd sev ibpb vmmcall fsgsbase bmi1 avx2 smep bmi2 rdseed adx smap clflushopt sha_ni xsaveopt xsavec xgetbv1 xsaves clzero irperf xsaveerptr arat npt lbrv svm_lock nrip_save tsc_scale vmcb_clean flushbyasid decodeassists pausefilter pfthreshold avic v_vmsave_vmload vgif overflow_recov succor smca
+bugs		: sysret_ss_attrs null_seg spectre_v1 spectre_v2 spec_store_bypass
+bogomips	: 4591.60
+TLB size	: 2560 4K pages
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 43 bits physical, 48 bits virtual
+power management: ts ttp tm hwpstate eff_freq_ro [13] [14]
+Задание f
+catoz@TUF505DT:~$ stat /etc/init.d/*
+  Файл: /etc/init.d/acpid
+  Размер: 2269      	Блоков: 8          Блок В/В: 4096   обычный файл
+Устройство: 10305h/66309d	Inode: 1705529     Ссылки: 1
+Доступ: (0755/-rwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Доступ: 2019-11-28 16:01:54.000000000 +0300
+Модифицирован: 2019-11-28 16:01:54.000000000 +0300
+Изменён: 2020-09-10 15:15:38.039871358 +0300
+ Создан: -
+  Файл: /etc/init.d/alsa-utils
+  Размер: 5574      	Блоков: 16         Блок В/В: 4096   обычный файл
+Устройство: 10305h/66309d	Inode: 1705530     Ссылки: 1
+Доступ: (0755/-rwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Доступ: 2019-11-05 18:39:55.000000000 +0300
+Модифицирован: 2019-11-05 18:39:55.000000000 +0300
+Изменён: 2020-09-10 15:15:38.039871358 +0300
+ Создан: -
+  Файл: /etc/init.d/anacron
+  Размер: 2055      	Блоков: 8          Блок В/В: 4096   обычный файл
+Устройство: 10305h/66309d	Inode: 1705531     Ссылки: 1
+Доступ: (0755/-rwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Доступ: 2019-07-16 21:19:13.000000000 +0300
+Модифицирован: 2019-07-16 21:19:13.000000000 +0300
+Изменён: 2020-09-10 15:15:38.039871358 +0300
+ Создан: -
+  Файл: /etc/init.d/apache2
+  Размер: 8181      	Блоков: 16         Блок В/В: 4096   обычный файл
+Устройство: 10305h/66309d	Inode: 1706787     Ссылки: 1
+Доступ: (0755/-rwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Доступ: 2020-09-16 20:11:44.073754095 +0300
+Модифицирован: 2020-04-13 20:19:17.000000000 +0300
+Изменён: 2020-09-16 20:11:42.365748372 +0300
+ Создан: -
+  Файл: /etc/init.d/apache-htcacheclean
+  Размер: 2489      	Блоков: 8          Блок В/В: 4096   обычный файл
+Устройство: 10305h/66309d	Inode: 1706786     Ссылки: 1
+Доступ: (0755/-rwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Доступ: 2020-09-16 20:11:44.669756082 +0300
+Модифицирован: 2020-04-13 20:19:17.000000000 +0300
+Изменён: 2020-09-16 20:11:42.365748372 +0300
+ Создан: -
+  Файл: /etc/init.d/apparmor
+  Размер: 3740      	Блоков: 8          Блок В/В: 4096   обычный файл
+Устройство: 10305h/66309d	Inode: 1705532     Ссылки: 1
+Доступ: (0755/-rwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Доступ: 2020-09-10 15:19:05.087867968 +0300
+Модифицирован: 2020-04-01 11:05:30.000000000 +0300
+Изменён: 2020-09-10 15:15:38.043871358 +0300
+ Создан: -
+  Файл: /etc/init.d/apport
+  Размер: 2964      	Блоков: 8          Блок В/В: 4096   обычный файл
+Устройство: 10305h/66309d	Inode: 1705533     Ссылки: 1
+Доступ: (0755/-rwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Доступ: 2020-09-16 22:54:44.768040422 +0300
+Модифицирован: 2019-12-07 01:22:30.000000000 +0300
+Изменён: 2020-09-10 15:15:38.043871358 +0300
+ Создан: -
+  Файл: /etc/init.d/avahi-daemon
+  Размер: 2401      	Блоков: 8          Блок В/В: 4096   обычный файл
+Устройство: 10305h/66309d	Inode: 1705534     Ссылки: 1
+Доступ: (0755/-rwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Доступ: 2018-08-21 09:56:18.000000000 +0300
+Модифицирован: 2018-08-21 09:56:18.000000000 +0300
+Изменён: 2020-09-10 15:15:38.043871358 +0300
+ Создан: -
+  Файл: /etc/init.d/bluetooth
+  Размер: 2968      	Блоков: 8          Блок В/В: 4096   обычный файл
+Устройство: 10305h/66309d	Inode: 1705535     Ссылки: 1
+Доступ: (0755/-rwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Доступ: 2020-02-26 12:57:50.000000000 +0300
+Модифицирован: 2020-02-26 12:57:50.000000000 +0300
+Изменён: 2020-09-10 15:15:38.043871358 +0300
+ Создан: -
+  Файл: /etc/init.d/console-setup.sh
+  Размер: 1232      	Блоков: 8          Блок В/В: 4096   обычный файл
+Устройство: 10305h/66309d	Inode: 1705536     Ссылки: 1
+Доступ: (0755/-rwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Доступ: 2020-03-27 13:10:06.000000000 +0300
+Модифицирован: 2020-03-27 13:10:06.000000000 +0300
+Изменён: 2020-09-10 15:15:38.043871358 +0300
+ Создан: -
+  Файл: /etc/init.d/cron
+  Размер: 3059      	Блоков: 8          Блок В/В: 4096   обычный файл
+Устройство: 10305h/66309d	Inode: 1705537     Ссылки: 1
+Доступ: (0755/-rwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Доступ: 2020-02-11 06:43:40.000000000 +0300
+Модифицирован: 2020-02-11 06:43:40.000000000 +0300
+Изменён: 2020-09-10 15:15:38.043871358 +0300
+ Создан: -
+  Файл: /etc/init.d/cups
+  Размер: 2804      	Блоков: 8          Блок В/В: 4096   обычный файл
+Устройство: 10305h/66309d	Inode: 1705540     Ссылки: 1
+Доступ: (0755/-rwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Доступ: 2020-02-17 11:19:56.000000000 +0300
+Модифицирован: 2020-02-17 11:19:56.000000000 +0300
+Изменён: 2020-09-10 15:15:38.043871358 +0300
+ Создан: -
+  Файл: /etc/init.d/cups-browsed
+  Размер: 1961      	Блоков: 8          Блок В/В: 4096   обычный файл
+Устройство: 10305h/66309d	Inode: 1705541     Ссылки: 1
+Доступ: (0755/-rwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Доступ: 2020-04-10 16:12:50.000000000 +0300
+Модифицирован: 2020-04-10 16:12:50.000000000 +0300
+Изменён: 2020-09-10 15:15:38.043871358 +0300
+ Создан: -
+  Файл: /etc/init.d/dbus
+  Размер: 3152      	Блоков: 8          Блок В/В: 4096   обычный файл
+Устройство: 10305h/66309d	Inode: 1705542     Ссылки: 1
+Доступ: (0755/-rwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Доступ: 2019-09-30 10:47:02.000000000 +0300
+Модифицирован: 2019-09-30 10:47:02.000000000 +0300
+Изменён: 2020-09-10 15:15:38.043871358 +0300
+ Создан: -
+  Файл: /etc/init.d/gdm3
+  Размер: 3033      	Блоков: 8          Блок В/В: 4096   обычный файл
+Устройство: 10305h/66309d	Inode: 1705543     Ссылки: 1
+Доступ: (0755/-rwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Доступ: 2019-10-07 19:23:07.000000000 +0300
+Модифицирован: 2019-10-07 19:23:07.000000000 +0300
+Изменён: 2020-09-10 15:15:38.043871358 +0300
+ Создан: -
+  Файл: /etc/init.d/grub-common
+  Размер: 985       	Блоков: 8          Блок В/В: 4096   обычный файл
+Устройство: 10305h/66309d	Inode: 1705544     Ссылки: 1
+Доступ: (0755/-rwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Доступ: 2020-09-16 22:54:44.788040422 +0300
+Модифицирован: 2020-07-20 21:19:08.000000000 +0300
+Изменён: 2020-09-10 15:15:38.043871358 +0300
+ Создан: -
+  Файл: /etc/init.d/hwclock.sh
+  Размер: 3809      	Блоков: 8          Блок В/В: 4096   обычный файл
+Устройство: 10305h/66309d	Inode: 1705545     Ссылки: 1
+Доступ: (0755/-rwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Доступ: 2019-07-29 00:44:43.000000000 +0300
+Модифицирован: 2019-07-29 00:44:43.000000000 +0300
+Изменён: 2020-09-10 15:15:38.043871358 +0300
+ Создан: -
+  Файл: /etc/init.d/irqbalance
+  Размер: 2638      	Блоков: 8          Блок В/В: 4096   обычный файл
+Устройство: 10305h/66309d	Inode: 1705546     Ссылки: 1
+Доступ: (0755/-rwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Доступ: 2019-12-13 18:43:35.000000000 +0300
+Модифицирован: 2019-12-13 18:43:35.000000000 +0300
+Изменён: 2020-09-10 15:15:38.043871358 +0300
+ Создан: -
+  Файл: /etc/init.d/kerneloops
+  Размер: 3131      	Блоков: 8          Блок В/В: 4096   обычный файл
+Устройство: 10305h/66309d	Inode: 1705547     Ссылки: 1
+Доступ: (0755/-rwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Доступ: 2017-05-19 16:21:14.000000000 +0300
+Модифицирован: 2017-05-19 16:21:14.000000000 +0300
+Изменён: 2020-09-10 15:15:38.043871358 +0300
+ Создан: -
+  Файл: /etc/init.d/keyboard-setup.sh
+  Размер: 1479      	Блоков: 8          Блок В/В: 4096   обычный файл
+Устройство: 10305h/66309d	Inode: 1705548     Ссылки: 1
+Доступ: (0755/-rwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Доступ: 2019-11-27 17:34:42.000000000 +0300
+Модифицирован: 2019-11-27 17:34:42.000000000 +0300
+Изменён: 2020-09-10 15:15:38.043871358 +0300
+ Создан: -
+  Файл: /etc/init.d/kmod
+  Размер: 2044      	Блоков: 8          Блок В/В: 4096   обычный файл
+Устройство: 10305h/66309d	Inode: 1705549     Ссылки: 1
+Доступ: (0755/-rwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Доступ: 2020-02-19 12:12:20.000000000 +0300
+Модифицирован: 2020-02-19 12:12:20.000000000 +0300
+Изменён: 2020-09-10 15:15:38.043871358 +0300
+ Создан: -
+  Файл: /etc/init.d/network-manager
+  Размер: 1942      	Блоков: 8          Блок В/В: 4096   обычный файл
+Устройство: 10305h/66309d	Inode: 1705552     Ссылки: 1
+Доступ: (0755/-rwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Доступ: 2020-05-20 19:23:10.000000000 +0300
+Модифицирован: 2020-05-20 19:23:10.000000000 +0300
+Изменён: 2020-09-10 15:15:38.043871358 +0300
+ Создан: -
+  Файл: /etc/init.d/openvpn
+  Размер: 9138      	Блоков: 24         Блок В/В: 4096   обычный файл
+Устройство: 10305h/66309d	Inode: 1705553     Ссылки: 1
+Доступ: (0755/-rwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Доступ: 2018-12-03 14:12:15.000000000 +0300
+Модифицирован: 2018-12-03 14:12:15.000000000 +0300
+Изменён: 2020-09-10 15:15:38.043871358 +0300
+ Создан: -
+  Файл: /etc/init.d/plymouth
+  Размер: 1366      	Блоков: 8          Блок В/В: 4096   обычный файл
+Устройство: 10305h/66309d	Inode: 1705554     Ссылки: 1
+Доступ: (0755/-rwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Доступ: 2020-03-23 15:06:52.000000000 +0300
+Модифицирован: 2020-03-23 15:06:52.000000000 +0300
+Изменён: 2020-09-10 15:15:38.043871358 +0300
+ Создан: -
+  Файл: /etc/init.d/plymouth-log
+  Размер: 752       	Блоков: 8          Блок В/В: 4096   обычный файл
+Устройство: 10305h/66309d	Inode: 1705555     Ссылки: 1
+Доступ: (0755/-rwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Доступ: 2020-03-23 15:06:52.000000000 +0300
+Модифицирован: 2020-03-23 15:06:52.000000000 +0300
+Изменён: 2020-09-10 15:15:38.043871358 +0300
+ Создан: -
+  Файл: /etc/init.d/pppd-dns
+  Размер: 612       	Блоков: 8          Блок В/В: 4096   обычный файл
+Устройство: 10305h/66309d	Inode: 1705556     Ссылки: 1
+Доступ: (0755/-rwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Доступ: 2020-09-10 13:01:56.124420659 +0300
+Модифицирован: 2019-02-08 19:37:29.000000000 +0300
+Изменён: 2020-09-10 15:15:38.043871358 +0300
+ Создан: -
+  Файл: /etc/init.d/procps
+  Размер: 924       	Блоков: 8          Блок В/В: 4096   обычный файл
+Устройство: 10305h/66309d	Inode: 1705557     Ссылки: 1
+Доступ: (0755/-rwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Доступ: 2020-02-14 01:44:31.000000000 +0300
+Модифицирован: 2020-02-14 01:44:31.000000000 +0300
+Изменён: 2020-09-10 15:15:38.043871358 +0300
+ Создан: -
+  Файл: /etc/init.d/pulseaudio-enable-autospawn
+  Размер: 469       	Блоков: 8          Блок В/В: 4096   обычный файл
+Устройство: 10305h/66309d	Inode: 1705558     Ссылки: 1
+Доступ: (0755/-rwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Доступ: 2020-09-10 13:02:10.908439420 +0300
+Модифицирован: 2020-06-05 04:52:22.000000000 +0300
+Изменён: 2020-09-10 15:15:38.043871358 +0300
+ Создан: -
+  Файл: /etc/init.d/rsync
+  Размер: 4417      	Блоков: 16         Блок В/В: 4096   обычный файл
+Устройство: 10305h/66309d	Inode: 1705559     Ссылки: 1
+Доступ: (0755/-rwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Доступ: 2019-10-15 03:04:36.000000000 +0300
+Модифицирован: 2019-10-15 03:04:36.000000000 +0300
+Изменён: 2020-09-10 15:15:38.043871358 +0300
+ Создан: -
+  Файл: /etc/init.d/rsyslog
+  Размер: 2864      	Блоков: 8          Блок В/В: 4096   обычный файл
+Устройство: 10305h/66309d	Inode: 1705560     Ссылки: 1
+Доступ: (0755/-rwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Доступ: 2020-09-10 13:01:52.620419560 +0300
+Модифицирован: 2019-03-07 15:49:31.000000000 +0300
+Изменён: 2020-09-10 15:15:38.043871358 +0300
+ Создан: -
+  Файл: /etc/init.d/saned
+  Размер: 2224      	Блоков: 8          Блок В/В: 4096   обычный файл
+Устройство: 10305h/66309d	Inode: 1705561     Ссылки: 1
+Доступ: (0755/-rwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Доступ: 2020-09-10 13:02:08.120434209 +0300
+Модифицирован: 2020-02-11 14:27:25.000000000 +0300
+Изменён: 2020-09-10 15:15:38.043871358 +0300
+ Создан: -
+  Файл: /etc/init.d/speech-dispatcher
+  Размер: 2035      	Блоков: 8          Блок В/В: 4096   обычный файл
+Устройство: 10305h/66309d	Inode: 1705562     Ссылки: 1
+Доступ: (0755/-rwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Доступ: 2020-01-12 18:43:05.000000000 +0300
+Модифицирован: 2020-01-12 18:43:05.000000000 +0300
+Изменён: 2020-09-10 15:15:38.043871358 +0300
+ Создан: -
+  Файл: /etc/init.d/spice-vdagent
+  Размер: 2484      	Блоков: 8          Блок В/В: 4096   обычный файл
+Устройство: 10305h/66309d	Inode: 1705563     Ссылки: 1
+Доступ: (0755/-rwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Доступ: 2019-09-27 11:40:40.000000000 +0300
+Модифицирован: 2019-09-27 11:40:40.000000000 +0300
+Изменён: 2020-09-10 15:15:38.043871358 +0300
+ Создан: -
+  Файл: /etc/init.d/udev
+  Размер: 6872      	Блоков: 16         Блок В/В: 4096   обычный файл
+Устройство: 10305h/66309d	Inode: 1705564     Ссылки: 1
+Доступ: (0755/-rwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Доступ: 2020-04-22 12:04:26.000000000 +0300
+Модифицирован: 2020-04-22 12:04:26.000000000 +0300
+Изменён: 2020-09-10 15:15:38.043871358 +0300
+ Создан: -
+  Файл: /etc/init.d/ufw
+  Размер: 2083      	Блоков: 8          Блок В/В: 4096   обычный файл
+Устройство: 10305h/66309d	Inode: 1705565     Ссылки: 1
+Доступ: (0755/-rwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Доступ: 2020-01-22 01:16:06.000000000 +0300
+Модифицирован: 2020-01-22 01:16:06.000000000 +0300
+Изменён: 2020-09-10 15:15:38.043871358 +0300
+ Создан: -
+  Файл: /etc/init.d/unattended-upgrades
+  Размер: 1391      	Блоков: 8          Блок В/В: 4096   обычный файл
+Устройство: 10305h/66309d	Inode: 1705566     Ссылки: 1
+Доступ: (0755/-rwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Доступ: 2020-09-10 13:02:07.196432651 +0300
+Модифицирован: 2020-04-14 01:37:21.000000000 +0300
+Изменён: 2020-09-10 15:15:38.043871358 +0300
+ Создан: -
+  Файл: /etc/init.d/uuidd
+  Размер: 1306      	Блоков: 8          Блок В/В: 4096   обычный файл
+Устройство: 10305h/66309d	Inode: 1705567     Ссылки: 1
+Доступ: (0755/-rwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Доступ: 2020-04-02 18:29:40.000000000 +0300
+Модифицирован: 2020-04-02 18:29:40.000000000 +0300
+Изменён: 2020-09-10 15:15:38.043871358 +0300
+ Создан: -
+  Файл: /etc/init.d/whoopsie
+  Размер: 485       	Блоков: 8          Блок В/В: 4096   обычный файл
+Устройство: 10305h/66309d	Inode: 1705568     Ссылки: 1
+Доступ: (0755/-rwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Доступ: 2020-09-10 13:02:10.056437746 +0300
+Модифицирован: 2018-08-11 01:39:49.000000000 +0300
+Изменён: 2020-09-10 15:15:38.043871358 +0300
+ Создан: -
+  Файл: /etc/init.d/x11-common
+  Размер: 2757      	Блоков: 8          Блок В/В: 4096   обычный файл
+Устройство: 10305h/66309d	Inode: 1705569     Ссылки: 1
+Доступ: (0755/-rwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Доступ: 2017-01-20 10:52:26.000000000 +0300
+Модифицирован: 2017-01-20 10:52:26.000000000 +0300
+Изменён: 2020-09-10 15:15:38.043871358 +0300
+ Создан: -
+Тут находятся какие-то скрипты.
