@@ -1,0 +1,22 @@
+Пункт 1
+Задание a
+catoz@TUF505DT:~/Рабочий стол/Linux_practics$ id
+uid=1000(catoz) gid=1000(catoz) группы=1000(catoz),4(adm),24(cdrom),27(sudo),30(dip),46(plugdev),120(lpadmin),131(lxd),132(sambashare)
+Задание b
+catoz@TUF505DT:~/Рабочий стол/Linux_practics$ date
+Ср 16 сен 2020 20:15:02 MSK
+Задание c
+catoz@TUF505DT:~/Рабочий стол/Linux_practics$ pwd
+/home/catoz/Рабочий стол/Linux_practics
+Задание d
+catoz@TUF505DT:~/Рабочий стол/Linux_practics$ ls
+a  b.pdf  reports
+catoz@TUF505DT:~/Рабочий стол/Linux_practics$ ls -l
+итого 4
+-rw-rw-r-- 1 catoz catoz    0 сен 10 14:54 a
+-rw-rw-r-- 1 catoz catoz    0 сен 10 14:54 b.pdf
+drwxrwxr-x 2 catoz catoz 4096 сен 16 20:18 reports
+catoz@TUF505DT:~/Рабочий стол/Linux_practics$ ls -a
+.  ..  a  b.pdf  reports
+catoz@TUF505DT:~/Рабочий стол/Linux_practics/ggit/basic_programming_2020$ git add -A
+
