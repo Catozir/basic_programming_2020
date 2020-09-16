@@ -18,5 +18,21 @@ catoz@TUF505DT:~/Рабочий стол/Linux_practics$ ls -l
 drwxrwxr-x 2 catoz catoz 4096 сен 16 20:18 reports
 catoz@TUF505DT:~/Рабочий стол/Linux_practics$ ls -a
 .  ..  a  b.pdf  reports
+Задание e
 catoz@TUF505DT:~/Рабочий стол/Linux_practics/ggit/basic_programming_2020$ git add -A
+catoz@TUF505DT:~/Рабочий стол/Linux_practics/ggit/basic_programming_2020$ git commit
+[master 9c8bd4c] HHH
+ 1 file changed, 22 insertions(+)
+ create mode 100644 "reports/\320\244\320\265\320\264\320\276\321\201\320\276\320\262.txt"
+catoz@TUF505DT:~/Рабочий стол/Linux_practics/ggit/basic_programming_2020$ git push notorigin master
+Username for 'https://github.com': Catozir
+Password for 'https://Catozir@github.com': 
+Перечисление объектов: 8, готово.
+Подсчет объектов: 100% (8/8), готово.
+При сжатии изменений используется до 8 потоков
+Сжатие объектов: 100% (4/4), готово.
+Запись объектов: 100% (8/8), 949 bytes | 949.00 KiB/s, готово.
+Всего 8 (изменения 0), повторно использовано 0 (изменения 0)
+To https://github.com/Catozir/basic_programming_2020
+ * [new branch]      master -> master
 
