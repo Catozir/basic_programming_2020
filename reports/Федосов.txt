@@ -1025,3 +1025,219 @@ catoz@TUF505DT:~$ stat /etc/init.d/*
 Изменён: 2020-09-10 15:15:38.043871358 +0300
  Создан: -
 Тут находятся какие-то скрипты.
+Пункт 3
+Задание a
+catoz@TUF505DT:~$ cd /var
+catoz@TUF505DT:/var$ cd tmp
+catoz@TUF505DT:/var/tmp$ cd test
+bash: cd: test: Нет такого файла или каталога
+catoz@TUF505DT:/var/tmp$ mkdir test
+catoz@TUF505DT:/var/tmp$ mkdir test/mytest
+catoz@TUF505DT:/var/tmp$ cd test/mytest
+catoz@TUF505DT:/var/tmp/test/mytest$ 
+Задание b
+catoz@TUF505DT:/var/tmp/test/mytest$ touch a.cpp
+catoz@TUF505DT:/var/tmp/test/mytest$ touch b.cpp
+catoz@TUF505DT:/var/tmp/test/mytest$ touch c.cpp
+catoz@TUF505DT:/var/tmp/test/mytest$ file a.cpp
+a.cpp: empty
+catoz@TUF505DT:/var/tmp/test/mytest$ file b.cpp
+b.cpp: empty
+catoz@TUF505DT:/var/tmp/test/mytest$ file c.cpp
+c.cpp: empty
+Задание c
+catoz@TUF505DT:/var/tmp/test/mytest$ cp /etc/hosts .
+catoz@TUF505DT:/var/tmp/test/mytest$ ls -lt
+итого 4
+-rw-r--r-- 1 catoz catoz 247 сен 16 23:46 hosts
+-rw-rw-r-- 1 catoz catoz   0 сен 16 23:33 c.cpp
+-rw-rw-r-- 1 catoz catoz   0 сен 16 23:33 b.cpp
+-rw-rw-r-- 1 catoz catoz   0 сен 16 23:33 a.cpp
+-rw-rw-r-- 1 catoz catoz   0 сен 16 23:12 segment_tree.cpp
+Задание d
+catoz@TUF505DT:/var/tmp/test/mytest$ mv a.cpp hosts
+catoz@TUF505DT:/var/tmp/test/mytest$ ls
+b.cpp  c.cpp  hosts  segment_tree.cpp
+hosts стал a.cpp, содержимое хоста утеряно
+Задание e
+catoz@TUF505DT:/var/tmp/test/mytest$ rm b.cpp
+catoz@TUF505DT:/var/tmp/test/mytest$ rm c.cpp
+catoz@TUF505DT:/var/tmp/test/mytest$ ls
+hosts  segment_tree.cpp
+Задание f
+catoz@TUF505DT:/var/tmp/test/mytest$ cp -r . /tmp
+Задание g
+catoz@TUF505DT:/var/tmp/test/mytest$ rm -r *
+Задание h
+catoz@TUF505DT:/var/tmp/test/mytest$ rm -r /var/tmp/test
+Задание i
+catoz@TUF505DT:~$ cd /tmp
+Задание j
+catoz@TUF505DT:/tmp$ echo "0123456789" > digits.txt && cat digits.txt
+0123456789
+Задание k
+catoz@TUF505DT:/tmp$ man cat
+catoz@TUF505DT:/tmp$ cat digits.txt >> digits2.txt
+catoz@TUF505DT:/tmp$ cat digits2.txt
+0123456789
+catoz@TUF505DT:/tmp$ cat digits.txt >> digits2.txt
+catoz@TUF505DT:/tmp$ cat digits2.txt
+0123456789
+0123456789
+Задание l
+catoz@TUF505DT:/tmp$ cat > digits65.txt
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+catoz@TUF505DT:/tmp$ cat digits65.txt
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+Задание m
+catoz@TUF505DT:/tmp$ wc digits65.txt
+ 65  65 130 digits65.txt
+Задание n
+catoz@TUF505DT:/tmp$ head -n 5 /etc/passwd > Hh.txt
+catoz@TUF505DT:/tmp$ tail -n 5 /etc/passwd > Tt.txt
+catoz@TUF505DT:/tmp$ cat Hh.txt
+root:x:0:0:root:/root:/bin/bash
+daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
+bin:x:2:2:bin:/bin:/usr/sbin/nologin
+sys:x:3:3:sys:/dev:/usr/sbin/nologin
+sync:x:4:65534:sync:/bin:/bin/sync
+catoz@TUF505DT:/tmp$ cat Tt.txt
+catoz:x:1000:1000:Catoz,,,:/home/catoz:/bin/bash
+nvidia-persistenced:x:126:133:NVIDIA Persistence Daemon,,,:/nonexistent:/usr/sbin/nologin
+systemd-coredump:x:999:999:systemd Core Dumper:/:/usr/sbin/nologin
+gitlog:x:127:65534::/nonexistent:/usr/sbin/nologin
+gitdaemon:x:128:65534::/nonexistent:/usr/sbin/nologin
+Задание o
+catoz@TUF505DT:/tmp$ ls -l /etc > nicelist
+Задание p
+catoz@TUF505DT:/tmp$ ls -l /etc | wc -l
+238
+
